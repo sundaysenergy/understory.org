@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://understory.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Understory - Web Resources</title>
+ <link>http://understory.org/taxonomy/term/21/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Permaculture on the Web</title>
+ <link>http://understory.org/permaculture/weblinks</link>
+ <description>&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;p&gt;Some resources which will be useful in your study of permaculture design:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;p&gt;Philosophical and Theoretical Background&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/permaculture/weblinks&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://understory.org/permaculture">Permaculture</category>
+ <category domain="http://understory.org/taxonomy/term/21">Web Resources</category>
+ <pubDate>Sat, 31 Mar 2007 15:47:17 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">24 at http://understory.org</guid>
+</item>
+</channel>
+</rss>

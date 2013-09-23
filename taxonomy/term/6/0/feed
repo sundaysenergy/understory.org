@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://understory.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Understory - Field Glossary contents</title>
+ <link>http://understory.org/taxonomy/term/6/0</link>
+ <description>Look inside the field Glossary</description>
+ <language>en</language>
+<item>
+ <title>Plant Diversity Section</title>
+ <link>http://understory.org/fieldglossary/azsample/plants</link>
+ <description>&lt;div align=&quot;center&quot;&gt;
+&lt;pre&gt;&lt;a href=&quot;/fieldglossary/azsample/sp-en&quot;&gt;&lt;img src=&quot;/files/understory/u2/abiu_breadnut_fg_0.jpg&quot; alt=&quot;&quot; width=&quot;651&quot; height=&quot;459&quot; /&gt;&lt;/a&gt;&lt;/pre&gt;&lt;h2&gt;&lt;a href=&quot;/fieldglossary/azsample/sp-en&quot;&gt;Spanish-English Pages&lt;/a&gt;  •  &lt;a href=&quot;/fieldglossary/azsample&quot;&gt;English-Spanish Pages&lt;/a&gt;&lt;a href=&quot;/fieldglossary/azsample&quot;&gt; &lt;/a&gt;•  &lt;a href=&quot;/fieldglossary/azsample/special&quot;&gt;Special Vocabu&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/fieldglossary/azsample/plants&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://understory.org/taxonomy/term/6">Field Glossary contents</category>
+ <pubDate>Wed, 04 Jul 2007 20:49:54 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">55 at http://understory.org</guid>
+</item>
+<item>
+ <title>Alphabetized Section of the Field Glossary - Spanish-English</title>
+ <link>http://understory.org/fieldglossary/azsample/sp-en</link>
+ <description>&lt;div align=&quot;center&quot;&gt;
+&lt;pre&gt;&lt;a href=&quot;/fieldglossary/azsample/sp-en&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;a href=&quot;/fieldglossary/azsample/special/en-sp&quot;&gt;&lt;/a&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt; &lt;img src=&quot;/files/understory/u2/reciclaje_sedimentacion_fg_0.jpg&quot; alt=&quot;&quot; width=&quot;651&quot; height=&quot;459&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/fieldglossary/azsample/sp-en&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://understory.org/taxonomy/term/6">Field Glossary contents</category>
+ <pubDate>Wed, 04 Jul 2007 20:43:43 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">54 at http://understory.org</guid>
+</item>
+</channel>
+</rss>

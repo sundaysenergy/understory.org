@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://understory.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Understory - Places of Interest</title>
+ <link>http://understory.org/taxonomy/term/22/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Pacific Northwest Permaculture</title>
+ <link>http://understory.org/pacificnorthwest</link>
+ <description>&lt;h2&gt;Pacific Northwest Permaculture Resources&lt;br /&gt;&lt;/h2&gt;
+&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://www.permacultureportal.com/&quot; target=&quot;_blank&quot;&gt;Bullock&amp;#39;s Farm and Permaculture Portal&lt;/a&gt; - The rural option &lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;&lt;a href=&quot;http://www.seattletilth.org&quot;&gt;Seattle Tilth&lt;/a&gt; - The urbane approach&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/pacificnorthwest&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://understory.org/permaculture">Permaculture</category>
+ <category domain="http://understory.org/taxonomy/term/22">Places of Interest</category>
+ <pubDate>Mon, 30 Apr 2007 03:55:57 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">35 at http://understory.org</guid>
+</item>
+<item>
+ <title>Design Notes</title>
+ <link>http://understory.org/MULCH</link>
+ <description>&lt;h2&gt;Resources to answer some specific questions &lt;/h2&gt;
+&lt;p align=&quot;left&quot;&gt;The MULCH Community Garden community of Macalester College came out&lt;em&gt; en force&lt;/em&gt; for the Permaculture Workshop at their new site on Sunday, April 29.  A few questions emerged from the sharp participants about:&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/MULCH&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://understory.org/MULCH#comments</comments>
+ <category domain="http://understory.org/taxonomy/term/41">Midwestern North America</category>
+ <category domain="http://understory.org/permaculture">Permaculture</category>
+ <category domain="http://understory.org/taxonomy/term/22">Places of Interest</category>
+ <pubDate>Mon, 30 Apr 2007 01:17:01 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">31 at http://understory.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://understory.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Understory - Composting Classes</title>
+ <link>http://understory.org/taxonomy/term/60/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Compost 101 at Moreno Farms, Minneapolis</title>
+ <link>http://understory.org/composting-moreno-farms</link>
+ <description>&lt;p&gt;
+&lt;img src=&quot;/files/understory/images/compost_mf_1.jpg&quot; border=&quot;10&quot; alt=&quot;compostini&quot; hspace=&quot;10&quot; vspace=&quot;10&quot; width=&quot;150&quot; height=&quot;200&quot; align=&quot;right&quot; /&gt;Reed Aubin of Understory held a &amp;quot;how to compost&amp;quot; class 8-12-2010 at Moreno Farms, Minneapolis. We were unable to provide complete information at the workshop, so we will followup here with some additional tips and tidbits.
+&lt;/p&gt;
+&lt;p&gt;
+After the workshop was rained out, Reed recorded a 16-minute &lt;strong&gt;video&lt;/strong&gt; about &lt;a href=&quot;http://www.vimeo.com/14273602&quot; target=&quot;_blank&quot;&gt;How to Build a Hot Compost Pile&lt;/a&gt;. 
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/composting-moreno-farms&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://understory.org/taxonomy/term/60">Composting Classes</category>
+ <category domain="http://understory.org/taxonomy/term/41">Midwestern North America</category>
+ <category domain="http://understory.org/permaculture">Permaculture</category>
+ <category domain="http://understory.org/taxonomy/term/27">Soil</category>
+ <pubDate>Wed, 18 Aug 2010 05:48:42 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">107 at http://understory.org</guid>
+</item>
+<item>
+ <title>Composting: Water Considerations</title>
+ <link>http://understory.org/composting/water</link>
+ <description>&lt;p&gt;
+&lt;img src=&quot;/files/understory/images/water_compost_mf.jpg&quot; alt=&quot;water with the compost&quot; width=&quot;225&quot; height=&quot;300&quot; align=&quot;right&quot; /&gt;It is important to provide moist conditions for a hot compost to reach its  potential.  The challenge is to create conditions that are neither too wet nor too dry.  Your best bet is to cover the pile with an impermeable material, and provide external water it as needed. The moisture should be even and consistent, like well-drained garden soil.  &lt;br /&gt;
+* Be careful when watering the pile with water from the city grid, which contains Chlorine in amounts sufficient to hinder the very soil life we are trying to encourage in our compost. 
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/composting/water&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://understory.org/taxonomy/term/60">Composting Classes</category>
+ <category domain="http://understory.org/taxonomy/term/27">Soil</category>
+ <pubDate>Thu, 19 Aug 2010 22:11:40 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">108 at http://understory.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://understory.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Sally Pistachio&#039;s blog</title>
+ <link>http://understory.org/Pistachio</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Rising Tide Conference, New Orleans</title>
+ <link>http://understory.org/pistachio/risingtide</link>
+ <description>&lt;p style=&quot;margin: 0px; font-family: Helvetica; font-style: normal; font-variant: normal; font-weight: normal; font-size: 12px; line-height: normal; font-size-adjust: none&quot;&gt;
+2nd Annual Rising Tide Conference, New Orleans
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/pistachio/risingtide&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://understory.org/pistachio/risingtide#comments</comments>
+ <pubDate>Wed, 22 Aug 2007 19:19:58 +0000</pubDate>
+ <dc:creator>Sally Pistachio</dc:creator>
+ <guid isPermaLink="false">66 at http://understory.org</guid>
+</item>
+<item>
+ <title>Chicken-Achiote Stew with a Volcano Elf</title>
+ <link>http://understory.org/pistachio/socorro</link>
+ <description>&lt;p&gt;&lt;em&gt;by Sally Pistachio&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/pistachio/socorro&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://understory.org/pistachio/socorro#comments</comments>
+ <category domain="http://understory.org/remedies">Remedies</category>
+ <pubDate>Wed, 20 Jun 2007 16:33:11 +0000</pubDate>
+ <dc:creator>Sally Pistachio</dc:creator>
+ <guid isPermaLink="false">51 at http://understory.org</guid>
+</item>
+<item>
+ <title> 12th Annual Environmental Conference on Law, Science, and the Public Interest</title>
+ <link>http://understory.org/envirocon07</link>
+ <description>&lt;h2&gt;Report from the Conference &lt;/h2&gt;
+&lt;p&gt;Tulane University, New Orleans, LA&lt;/p&gt;
+&lt;p&gt;March 9-10, 2007 &lt;/p&gt;
+&lt;address&gt;It took the Mississippi River 6,000 years to build the Louisiana coast. It took man (and natural disasters) 75 years to destroy it. Experts agree we have 10 years to act before the problem is too big to solve. &lt;/address&gt;
+&lt;p&gt; -Times-Picayune March 4, 2007&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/envirocon07&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://understory.org/envirocon07#comments</comments>
+ <category domain="http://understory.org/remedies">Remedies</category>
+ <pubDate>Tue, 05 Jun 2007 00:46:56 +0000</pubDate>
+ <dc:creator>Sally Pistachio</dc:creator>
+ <guid isPermaLink="false">44 at http://understory.org</guid>
+</item>
+<item>
+ <title>Welcome to the South: Making Landfall in New Orleans after the Storm</title>
+ <link>http://understory.org/node/22</link>
+ <description>&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;    Arriving in New Orleans, Louisiana for the first time six months after the storm, I immediately realized that devoting a chapter of my life to the rejuvenation of such a significant city was imminent.  Landing at the Louis Armstrong Airport with its vacant Subway’s and Dippin’Dots food stalls, devastation began to grapple with my emotions like desperate hurricane survivors seizing provisions at the corner market.  My empathy was all-consuming, which initially baffled me.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/node/22&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://understory.org/node/22#comments</comments>
+ <category domain="http://understory.org/remedies">Remedies</category>
+ <pubDate>Wed, 21 Mar 2007 18:04:42 +0000</pubDate>
+ <dc:creator>Sally Pistachio</dc:creator>
+ <guid isPermaLink="false">22 at http://understory.org</guid>
+</item>
+</channel>
+</rss>

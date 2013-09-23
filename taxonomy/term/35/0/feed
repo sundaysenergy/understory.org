@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://understory.org" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Understory - Reviews</title>
+ <link>http://understory.org/taxonomy/term/35/0</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Argentina Sin Alambres Reviews the Field Glossary</title>
+ <link>http://understory.org/fieldglossary/reviews/argentinasinalambres</link>
+ <description>&lt;div align=&quot;left&quot;&gt;
+&lt;img src=&quot;/files/understory/u2/glossreview.jpg&quot; border=&quot;17&quot; alt=&quot;&quot; hspace=&quot;17&quot; vspace=&quot;17&quot; width=&quot;203&quot; height=&quot;233&quot; align=&quot;right&quot; /&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;http://understory.org/fieldglossary/reviews/argentinasinalambres&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://understory.org/fieldglossary/reviews/argentinasinalambres#comments</comments>
+ <category domain="http://understory.org/fieldglossary/reviews">Reviews</category>
+ <category domain="http://understory.org/taxonomy/term/35">Reviews</category>
+ <pubDate>Sun, 01 Apr 2007 19:58:33 +0000</pubDate>
+ <dc:creator>Reed Ellis Aubin</dc:creator>
+ <guid isPermaLink="false">28 at http://understory.org</guid>
+</item>
+<item>
+ <title>Respond to the Field Glossary</title>
+ <link>http://understory.org/fieldglossary/response</link>
+ <description>&lt;div align=&quot;center&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt; &lt;/div&gt;
+&lt;div align=&quot;left&quot;&gt;&lt;strong&gt;Your thoughts on the Field Glossary&lt;/strong&gt;&lt;/div&gt;
+&lt;p align=&quot;left&quot;&gt;How could this tool be more useful to you?&lt;/p&gt;
+&lt;p align=&quot;left&quot;&gt;Please take some time to respond to the survey. &lt;/p&gt;
+</description>
+ <category domain="http://understory.org/fieldglossary">Field Glossary</category>
+ <category domain="http://understory.org/taxonomy/term/35">Reviews</category>
+ <pubDate>Fri, 16 Feb 2007 03:11:01 +0000</pubDate>
+ <dc:creator>Sergio Balustrada</dc:creator>
+ <guid isPermaLink="false">15 at http://understory.org</guid>
+</item>
+</channel>
+</rss>
